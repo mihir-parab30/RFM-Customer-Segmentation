@@ -32,7 +32,7 @@ In this analysis, 500,000+ online retail transactions were examined to classify 
 ## 📥 Dataset Source
 
 Dataset used from Kaggle:  
-🔗 [eCommerce Transactions Dataset – Kaggle]([https://www.kaggle.com/datasets/carrie1/ecommerce-data](https://www.kaggle.com/datasets/carrie1/ecommerce-data))
+🔗 [eCommerce Transactions Dataset – Kaggle] (https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 ---
 
