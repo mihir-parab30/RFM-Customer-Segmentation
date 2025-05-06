@@ -48,14 +48,14 @@ The frequency distribution of Recency, Frequency, and Monetary scores after quar
 ### 📌 Correlation Between RFM Scores
 Heatmap showing correlation between R, F, and M scores. This helps identify whether a customer's recency relates to their frequency or monetary value.
 
-![RFM Correlation Heatmap](images/Correlation_between_RFM_scores)
+![RFM Correlation Heatmap](images/Correlation_between_RFM_scores.png)
 
 ---
 
 ### 📌 3D Customer Segmentation
 A 3D scatter plot visualizing segmented customers based on their R, F, and M scores. Each point represents a customer, and color coding shows which segment they belong to.
 
-![3D Customer Segmentation](Screenshot%202025-05-05%20at%2011.52.46 PM.png)
+![3D Customer Segmentation](images/3D_Customer_Segmentation.png)
 
 
 
