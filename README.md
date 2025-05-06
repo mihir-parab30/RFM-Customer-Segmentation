@@ -34,6 +34,30 @@ In this analysis, 500,000+ online retail transactions were examined to classify 
 Dataset used from Kaggle:  
 🔗 [eCommerce Transactions Dataset – Kaggle]([https://www.kaggle.com/datasets/carrie1/ecommerce-data](https://www.kaggle.com/datasets/carrie1/ecommerce-data))
 
+---
+
+## 📊 Visualizations
+
+### 📌 RFM Score Distributions
+The frequency distribution of Recency, Frequency, and Monetary scores after quartile binning. This helps understand how customers are distributed across each RFM dimension.
+
+![RFM Score Distributions](images/RFM_Score_Distribution.png)
+
+---
+
+### 📌 Correlation Between RFM Scores
+Heatmap showing correlation between R, F, and M scores. This helps identify whether a customer's recency relates to their frequency or monetary value.
+
+![RFM Correlation Heatmap](images/Correlation_between_RFM_scores)
+
+---
+
+### 📌 3D Customer Segmentation
+A 3D scatter plot visualizing segmented customers based on their R, F, and M scores. Each point represents a customer, and color coding shows which segment they belong to.
+
+![3D Customer Segmentation](Screenshot%202025-05-05%20at%2011.52.46 PM.png)
+
+
 
 ---
 
